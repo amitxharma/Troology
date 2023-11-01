@@ -1,0 +1,9 @@
+.div {
+  width: 2.875rem;
+  height: 2.875rem;
+  border-radius: 2.125rem;
+  border: 1px solid #211e24;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,292 @@
+.yourBenefitsAt {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 130%;
+  font-weight: 600;
+  display: inline-block;
+  width: 369px;
+}
+.groupChild,
+.groupWrapper,
+.yourBenefitsAtAGlanceWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 369px;
+  height: 31px;
+}
+.groupChild,
+.groupWrapper {
+  top: 64px;
+  left: 727px;
+}
+.groupChild {
+  top: 0;
+  left: 0;
+  background-color: var(--bg-grey);
+  width: 811px;
+  height: 576px;
+}
+.yourBenefitsAt1 {
+  position: absolute;
+  top: 24px;
+  left: calc(50% - 302.5px);
+  line-height: 60px;
+  font-weight: 600;
+  display: inline-block;
+  width: 486px;
+}
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.groupItem {
+  border-radius: var(--br-5xs);
+  border: 2px solid var(--color-whitesmoke-100);
+  box-sizing: border-box;
+  width: 285px;
+  height: 212px;
+}
+.groupInner {
+  width: 52px;
+  height: 52px;
+}
+.checks,
+.year12Months {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+}
+.checks {
+  top: 0;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-weight: 600;
+  width: 234px;
+}
+.year12Months {
+  top: 32px;
+  line-height: 28px;
+  font-family: var(--font-inter);
+  color: var(--black-2);
+  width: 253px;
+  opacity: 0.6;
+}
+.checksParent,
+.groupDiv,
+.rectangleGroup {
+  position: absolute;
+  top: 68px;
+  left: 0;
+  width: 253px;
+  height: 116px;
+}
+.groupDiv,
+.rectangleGroup {
+  top: 20px;
+  left: 16px;
+  height: 184px;
+}
+.rectangleGroup {
+  top: 0;
+  left: 0;
+  width: 285px;
+  height: 212px;
+}
+.checks1 {
+  position: absolute;
+  top: 158px;
+  left: 10px;
+  line-height: 24px;
+  display: inline-block;
+  width: 256px;
+}
+.groupIcon {
+  position: absolute;
+  top: 20px;
+  left: 16px;
+  width: 52px;
+  height: 52px;
+}
+.noOneKnows {
+  position: absolute;
+  top: 32px;
+  left: 0;
+  line-height: 28px;
+  font-family: var(--font-inter);
+  color: var(--black-2);
+  display: inline-block;
+  width: 253px;
+  opacity: 0.7;
+}
+.checksGroup,
+.getServiceCParent {
+  position: absolute;
+  top: 88px;
+  left: 16px;
+  width: 253px;
+  height: 116px;
+  text-align: left;
+  color: var(--black);
+  font-family: var(--font-poppins);
+}
+.checksGroup {
+  top: 232px;
+  left: 0;
+  width: 285px;
+  height: 212px;
+  text-align: justify;
+  color: var(--color-white);
+  font-family: var(--font-effra-trial);
+}
+.noChargesFor {
+  position: absolute;
+  top: 32px;
+  left: 0;
+  line-height: 28px;
+  font-family: var(--font-inter);
+  display: inline-block;
+  width: 253px;
+  opacity: 0.8;
+}
+.deliveredToYouParent {
+  position: absolute;
+  top: 88px;
+  left: 16px;
+  width: 253px;
+  height: 88px;
+}
+.groupContainer,
+.rectangleContainer,
+.rectangleParent1 {
+  position: absolute;
+  top: 0;
+  left: 305px;
+  width: 285px;
+  height: 212px;
+}
+.groupContainer,
+.rectangleParent1 {
+  top: 232px;
+}
+.groupContainer {
+  top: 108px;
+  left: 103px;
+  width: 590px;
+  height: 444px;
+  font-size: var(--font-size-base);
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 509px;
+  width: 811px;
+  height: 576px;
+  color: var(--black);
+}
+.amcAnnual,
+.youCanRest {
+  position: absolute;
+  left: calc(50% - 204.5px);
+  display: inline-block;
+}
+.youCanRest {
+  top: 186px;
+  line-height: 28px;
+  font-family: var(--font-inter);
+  width: 408px;
+  opacity: 0.6;
+}
+.amcAnnual {
+  top: 50px;
+  font-size: 32px;
+  line-height: 60px;
+  font-weight: 600;
+  color: var(--black);
+  width: 409px;
+}
+.groupChild5,
+.origaService {
+  position: absolute;
+  opacity: 0.6;
+}
+.origaService {
+  top: 2px;
+  left: 23px;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+.groupChild5 {
+  top: 0;
+  left: 0;
+  width: 15px;
+  height: 12px;
+}
+.origaServiceParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 148px;
+  height: 26px;
+  text-align: center;
+}
+.youCanRestEasyKnowingYouParent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 204px);
+  width: 409px;
+  height: 298px;
+}
+.add {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  display: none;
+}
+.exploreAmcPlans {
+  position: relative;
+  line-height: 170%;
+  font-weight: 600;
+}
+.buttons,
+.buttonsWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.buttons {
+  border-radius: 12px;
+  background-color: var(--purple);
+  width: 281px;
+  height: 54px;
+  padding: 8px 0;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.buttonsWrapper {
+  position: absolute;
+  top: 346px;
+  left: 0;
+  color: var(--color-white);
+}
+.groupParent1 {
+  position: absolute;
+  top: 84px;
+  left: calc(50% - 660px);
+  width: 410px;
+  height: 400px;
+  font-size: var(--font-size-base);
+  color: var(--black-2);
+}
+.groupParent {
+  width: 1320px;
+  height: 576px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--header-text);
+  font-family: var(--font-poppins);
+}

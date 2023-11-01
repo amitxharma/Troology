@@ -1,0 +1,16 @@
+.block{
+    border:2px solid #F6F6F6;
+    width: 240px;
+    margin-top: 2rem;
+}
+.block div
+{
+    width: 52px;
+    height: 52px;
+    border-radius: 26px;
+    background-color: #E7E7E7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1rem;
+}

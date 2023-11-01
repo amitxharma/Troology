@@ -1,0 +1,27 @@
+.maindiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#F5F5F5;
+  
+}
+.innerdiv{
+    margin-top:1rem ;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.innerdiv h2{
+font-size: 1rem;
+font-weight: 600;
+line-height: 24px;
+letter-spacing: -0.01em;
+
+}
+.innerdiv p{
+    height: 84px;
+    width: 15rem;
+font-size: 1rem;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+}

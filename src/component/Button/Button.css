@@ -1,0 +1,15 @@
+.button{
+    width: 11.25rem;
+height: 3.375rem;
+padding: 8px, 0px, 8px, 0px;
+border-radius: 12px;
+ background: #73509E;
+ font-family: Poppins;
+ font-size: 1rem;
+ font-weight: 600;
+ line-height: 1.6875rem;
+ letter-spacing: 0em;
+ border: none;
+ color: white;
+}
+
